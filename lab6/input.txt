@@ -1,0 +1,2 @@
+This is the new beggining of a file
+This has been recently appended to the original file
